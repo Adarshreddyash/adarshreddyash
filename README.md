@@ -19,10 +19,8 @@ Hi, I'm Adarshreddy, a Full Stack Developer 🚀 from India, currently, I'm a Bl
 - 👨🏽‍💻 I’m currently working on [Ronix](https://github.com/Adarshreddyash/ronix-frontend);
 - 🌱 I’m currently learning GraphQL ,typescript and Kubernetes; 
 - 👯 I’m looking to collaborate on [Ronix](https://github.com/Adarshreddyash/ronix-frontend) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Vengixlabs:My future Project which helps in R&D for companies. 
-- 📫 How to reach me: adarshreddy9849@gmail.com;
+- 📫 How to reach me: [Email](https://mailto:me@adarshreddyash.me)
 - 📝[Resume](https://adarshreddyash.me/assets/Adarshreddy's%20Resume.pdf)
 
 **Languages and Tools:**  
