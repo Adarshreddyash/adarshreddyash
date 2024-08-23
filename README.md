@@ -12,7 +12,7 @@
 <br />
 <br />
 
-Hi, I'm Adarshreddy, a Full Stack Developer 🚀 from India, currently, I'm a Blogger 🙍🏽‍♂️ [@GSPACE](https://glammingspace.blogspot.com), Freelancer 👨🏽‍💻, Beside's programming, I enjoy podcasts and traveling.
+Hi, I'm Adarshreddy, a Full Stack Developer 🚀 from India, currently, I'm a Blogger 🙍🏽‍♂️ [@GSPACE](https://glammingspace.blogspot.com), Python Developer 👨🏽‍💻, Beside's programming, I enjoy podcasts and traveling.
   
 **Talking about Personal Stuffs:**
 
